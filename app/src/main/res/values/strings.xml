@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">TestTask</string>
+    <string name="data">"{\n" +
+                "  \"product\" : {\n" +
+                "    \"title\" : \"coffee\",\n" +
+                "    \"price\" : 100,\n" +
+                "    \"sugar\" : \"no\",\n" +
+                "    \"size\" : \"standart\"\n" +
+                "  },\n" +
+                "  \"product\" : {\n" +
+                "    \"title\" : \"tea\",\n" +
+                "    \"price\" : 90,\n" +
+                "    \"sugar\" : \"no\",\n" +
+                "    \"size\" : \"standart\"\n" +
+                "  },\n" +
+                "  \"product\" : {\n" +
+                "    \"title\" : \"cola\",\n" +
+                "    \"price\" : 80,\n" +
+                "    \"sugar\" : \"no\",\n" +
+                "    \"size\" : \"standart\"\n" +
+                "  },\n" +
+                "  \"product\" : {\n" +
+                "    \"title\" : \"beer\",\n" +
+                "    \"price\" : 110,\n" +
+                "    \"type\" : \"black\",\n" +
+                "    \"size\" : \"standart\"\n" +
+                "  }\n" +
+                "}"</string>
+    <string name="action_settings">Settings</string>
+</resources>
